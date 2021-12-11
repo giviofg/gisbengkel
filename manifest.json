@@ -1,0 +1,15 @@
+{
+    "short_name": "BKL",
+    "name": "GIS Bengkel",
+    "icons": [
+        {
+            "src": "favicons_32.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        }
+    ],
+    "start_url": "index.html",
+    "background_color": "#F44336",
+    "display": "standalone",
+    "theme_color": "#F44336"
+}
